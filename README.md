@@ -1,7 +1,7 @@
 # 🌐 Full-Stack Application  
 
 A complete **Full-Stack web application** with a **Node.js + Express backend** and **MongoDB** for data persistence.  
-The frontend (React) communicates with the backend API to provide a seamless user experience.  
+The frontend communicates with the backend API to provide a seamless user experience.  
 
 ---
 
